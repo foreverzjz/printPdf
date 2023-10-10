@@ -14,7 +14,7 @@ class PrintPdf {
         Map<String, Object> map = new HashMap<String, Object>();
 
         map.put("title", "测试标题");
-        map.put("name", "桃桃");
+        map.put("name", "smile");
 
         String htmlFile = "htmlTemplate.html";
         String outputPdfFile = "output.pdf";
